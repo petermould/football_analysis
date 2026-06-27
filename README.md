@@ -1,7 +1,7 @@
 # Football Analysis Project
 
 This project is a Python-based workflow for analysing football match footage.  
-It was built by following a tutorial and then adapted while learning how to process video data and extract useful match insights.
+It was built by me, and then adapted while learning how to process video data and extract useful match insights.
 
 The focus is on turning raw match recordings into structured analysis that can be used for performance review.
 
@@ -20,9 +20,11 @@ The goal of this project is to:
 
 ## Tools and Libraries
 
-- Python
-- OpenCV
-- NumPy
+- YOLO Tracking
+- Fine tuning/ Machine learning
+- Kmeans Pixel clustering
+- Optical flow
+- CV2
 - Pandas
 
 --------
