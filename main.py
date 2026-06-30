@@ -26,7 +26,7 @@ def main():
     tracker.add_position_to_tracks(tracks)
     
     
-    #camera movement estimator
+    #the camera movement estimator
 
     camera_movement_estimator = CameraMovementEstimator(video_frames[0])
     camera_movement_per_frame = camera_movement_estimator.get_camera_movement(video_frames,
