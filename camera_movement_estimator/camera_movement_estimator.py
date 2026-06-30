@@ -6,6 +6,7 @@ import os
 sys.path.append('../')
 from utils.bbox_utils import measure_distance, measure_xy_distance
 
+#classes
 
 class CameraMovementEstimator():
     def __init__(self,frame):
