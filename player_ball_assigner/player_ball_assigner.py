@@ -1,6 +1,7 @@
 import sys
 sys.path.append('../')
 from utils.bbox_utils import get_center_of_bbox, measure_distance
+import pandas as pd
 
 class PlayerBallAssigner():
     def __init__(self):
